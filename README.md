@@ -41,7 +41,7 @@
     Remove minor beug
     Changing the Menu mode
 
-**BMKCustomers V3.5 BETA**
+**V3.5 BETA**
 
     Change Combo DashVersionNow by TextField
     Removed LDV_2 replace By FCRT
